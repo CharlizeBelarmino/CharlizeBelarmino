@@ -1,2 +1,2 @@
-<p align="center"> <img src="GITHUBBANNER.gif" width="100%"> </p>
+<p align="center"> <img src="GITHUBBANNER_OUTLINED.gif.gif" width="100%"> </p>
 
